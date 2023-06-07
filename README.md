@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @damaris-mulinge
-- 👀 I’m interested in serving Dod everywhere
+- 👀 I’m interested in serving God everywhere
 - 🌱 I’m currently learning Msc in Data Science at CUK
 - 💞️ I’m looking to collaborate on Data Scienece on python for data engeneering and R for statistical computing
 - 📫 How to reach me ...damaris23.mulinge@student.cuk.ac.ke
